@@ -4,7 +4,7 @@ This  project is for the description here:
 # Requirements
 MySQL 8.0  
 Python3  
-Internet Broser(tested in Microsoft Edge)  
+Internet Browser(tested in Microsoft Edge)  
 IDE (This is optional, tested with PyCharm CE)
 # Setup  
 1. Download this repository  
