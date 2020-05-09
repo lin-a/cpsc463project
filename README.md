@@ -1,9 +1,10 @@
 # cpsc463project_feature2  
 This  project is for the description here:  
 `2. Car dealerships need new software to order new cars from the car manufacturer. The dealerships only have so much space in their lots, depending on how big of a dealership they own.`  
-Demo on [YouTube](https://youtu.be/AaVoTvrTR4A) in case this project doesn't work on your computer.
+Demo on [YouTube](https://youtu.be/AaVoTvrTR4A) in case this project doesn't work on your computer.  
 # Requirements
 MySQL 8.0  
+MySQL service running
 Python3  
 Internet Browser(tested in Microsoft Edge)  
 IDE (This is optional, tested with PyCharm CE)
